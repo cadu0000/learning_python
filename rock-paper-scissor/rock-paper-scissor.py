@@ -68,5 +68,5 @@ def main():
     elif enemy == scissor:
         result = "YOU WIN"
 
-    print("the enemy chose:\n" + enemy)
+    print("the pc chose:\n" + enemy)
     print("\n" + result)
